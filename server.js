@@ -4,7 +4,7 @@ function sleep(ms) {
 
 async function main() {
   while(true) {
-    console.log('Microservices rule!');
+    console.log('Travis CI update!');
     await sleep(5000);
   }
 }
